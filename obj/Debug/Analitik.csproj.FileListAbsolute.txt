@@ -1,0 +1,44 @@
+C:\Users\milad\OneDrive\Рабочий стол\ВКР\проекты\Analitik\bin\Debug\Analitik.exe.config
+C:\Users\milad\OneDrive\Рабочий стол\ВКР\проекты\Analitik\bin\Debug\Analitik.exe
+C:\Users\milad\OneDrive\Рабочий стол\ВКР\проекты\Analitik\bin\Debug\Analitik.pdb
+C:\Users\milad\OneDrive\Рабочий стол\ВКР\проекты\Analitik\obj\Debug\Analitik.csproj.AssemblyReference.cache
+C:\Users\milad\OneDrive\Рабочий стол\ВКР\проекты\Analitik\obj\Debug\Analitik.csproj.SuggestedBindingRedirects.cache
+C:\Users\milad\OneDrive\Рабочий стол\ВКР\проекты\Analitik\obj\Debug\Analitik.Form1.resources
+C:\Users\milad\OneDrive\Рабочий стол\ВКР\проекты\Analitik\obj\Debug\Analitik.Properties.Resources.resources
+C:\Users\milad\OneDrive\Рабочий стол\ВКР\проекты\Analitik\obj\Debug\Analitik.csproj.GenerateResource.cache
+C:\Users\milad\OneDrive\Рабочий стол\ВКР\проекты\Analitik\obj\Debug\Analitik.csproj.CoreCompileInputs.cache
+C:\Users\milad\OneDrive\Рабочий стол\ВКР\проекты\Analitik\obj\Debug\Analitik.exe
+C:\Users\milad\OneDrive\Рабочий стол\ВКР\проекты\Analitik\obj\Debug\Analitik.pdb
+C:\Users\milad\OneDrive\Рабочий стол\test vkr\Analitik\bin\Debug\Analitik.exe.config
+C:\Users\milad\OneDrive\Рабочий стол\test vkr\Analitik\bin\Debug\Analitik.exe
+C:\Users\milad\OneDrive\Рабочий стол\test vkr\Analitik\bin\Debug\Analitik.pdb
+C:\Users\milad\OneDrive\Рабочий стол\test vkr\Analitik\obj\Debug\Analitik.csproj.AssemblyReference.cache
+C:\Users\milad\OneDrive\Рабочий стол\test vkr\Analitik\obj\Debug\Analitik.csproj.SuggestedBindingRedirects.cache
+C:\Users\milad\OneDrive\Рабочий стол\test vkr\Analitik\obj\Debug\Analitik.Form1.resources
+C:\Users\milad\OneDrive\Рабочий стол\test vkr\Analitik\obj\Debug\Analitik.Properties.Resources.resources
+C:\Users\milad\OneDrive\Рабочий стол\test vkr\Analitik\obj\Debug\Analitik.csproj.GenerateResource.cache
+C:\Users\milad\OneDrive\Рабочий стол\test vkr\Analitik\obj\Debug\Analitik.csproj.CoreCompileInputs.cache
+C:\Users\milad\OneDrive\Рабочий стол\test vkr\Analitik\obj\Debug\Analitik.exe
+C:\Users\milad\OneDrive\Рабочий стол\test vkr\Analitik\obj\Debug\Analitik.pdb
+C:\Users\milad\OneDrive\Рабочий стол\Analitik\bin\Debug\Analitik.exe.config
+C:\Users\milad\OneDrive\Рабочий стол\Analitik\bin\Debug\Analitik.exe
+C:\Users\milad\OneDrive\Рабочий стол\Analitik\bin\Debug\Analitik.pdb
+C:\Users\milad\OneDrive\Рабочий стол\Analitik\obj\Debug\Analitik.csproj.AssemblyReference.cache
+C:\Users\milad\OneDrive\Рабочий стол\Analitik\obj\Debug\Analitik.csproj.SuggestedBindingRedirects.cache
+C:\Users\milad\OneDrive\Рабочий стол\Analitik\obj\Debug\Analitik.Form1.resources
+C:\Users\milad\OneDrive\Рабочий стол\Analitik\obj\Debug\Analitik.Properties.Resources.resources
+C:\Users\milad\OneDrive\Рабочий стол\Analitik\obj\Debug\Analitik.csproj.GenerateResource.cache
+C:\Users\milad\OneDrive\Рабочий стол\Analitik\obj\Debug\Analitik.csproj.CoreCompileInputs.cache
+C:\Users\milad\OneDrive\Рабочий стол\Analitik\obj\Debug\Analitik.exe
+C:\Users\milad\OneDrive\Рабочий стол\Analitik\obj\Debug\Analitik.pdb
+D:\memory\Рабочий стол\Analitik\bin\Debug\Analitik.exe.config
+D:\memory\Рабочий стол\Analitik\bin\Debug\Analitik.exe
+D:\memory\Рабочий стол\Analitik\bin\Debug\Analitik.pdb
+D:\memory\Рабочий стол\Analitik\obj\Debug\Analitik.csproj.AssemblyReference.cache
+D:\memory\Рабочий стол\Analitik\obj\Debug\Analitik.csproj.SuggestedBindingRedirects.cache
+D:\memory\Рабочий стол\Analitik\obj\Debug\Analitik.Form1.resources
+D:\memory\Рабочий стол\Analitik\obj\Debug\Analitik.Properties.Resources.resources
+D:\memory\Рабочий стол\Analitik\obj\Debug\Analitik.csproj.GenerateResource.cache
+D:\memory\Рабочий стол\Analitik\obj\Debug\Analitik.csproj.CoreCompileInputs.cache
+D:\memory\Рабочий стол\Analitik\obj\Debug\Analitik.exe
+D:\memory\Рабочий стол\Analitik\obj\Debug\Analitik.pdb
